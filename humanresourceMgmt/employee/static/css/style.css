@@ -1,0 +1,19 @@
+
+
+.nav-link{
+    color: white !important;
+}
+
+
+.nav-link:hover{
+    color: white !important;
+    background-color: aquamarine;
+    border-radius: 15px;
+
+}
+
+
+.navbar-brand{
+    font-weight: bold;
+    
+}
